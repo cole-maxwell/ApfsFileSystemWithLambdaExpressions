@@ -1,9 +1,8 @@
 # ApfsFileSystemWithLambdaExpressions
 ---- Program Description ----<br />
 
-Instead of defining classes that implement Comparator<ApfsElement>, define the body of each<br />
-compare() method as a lambda expression and pass it to getChildren(), getSubDirectories() and<br />
-getFiles() of ApfsDirectory.
+Instead of defining classes that implement Comparator<ApfsElement>, this program defines the body of each<br />
+compare() method as a lambda expression and pass it to getChildren(), getSubDirectories() and getFiles() of ApfsDirectory.<br />
 
 ---- Compile & Run ----<br />
 
